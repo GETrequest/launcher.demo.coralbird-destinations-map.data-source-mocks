@@ -1,0 +1,40 @@
+{
+   "list": [
+     {
+       "latlng": [
+         50.80414,
+      11.61189
+       ],
+       "popUpInnerHtml": "<h2><a target=\"_blank\" href=\"http://leuchtenburg.de\">Leuchtenburg</a></h2><dl><dt><b>Adresse</b></dt><dd>Dorfstraße 100, 07768 Seitenroda</dd><dt><b>Telefonnummer</b></dt><dd>036424 713300</dd><dt><b>Öffnungszeiten</></dt><dd>Montag bis Sonntag: 9:00 - 19:00 Uhr</dd></dl>"
+     },
+     {
+       "latlng": [
+         50.804118,
+      11.5503904
+       ],
+       "popUpInnerHtml": "<h2><a target=\"_blank\" href=\"http://www.foerderverein-schloss-hummelshain.de\">Neues Jagdschloss Hummelshain</a></h2><dl><dt><b>Adresse</b></dt><dd>Am Neuen Schloss, 07768 Hummelshain</dd><dt><b>Telefonnummer</b></dt><dd>036424 51919</dd></dl><dt><b>Öffnungszeiten</></dt><dd>nicht verfügbar</dd>"
+     },
+     {
+       "latlng": [
+         51.00309,
+      11.6617507
+       ],
+       "popUpInnerHtml": "<h2><a target=\"_blank\" href=\"http://www.dornburger-schloesser.de\">Dornburger Schlösser</a></h2><dl><dt><b>Adresse</b></dt><dd>Max-Krehan-Straße 5, 07778 Dornburg</dd><dt><b>Telefonnummer</b></dt><dd></dd></dl><dt><b>Öffnungszeiten</></dt><dd>Dienstag bis Sonntag: 9:00 - 17:00 Uhr</dd><dd>Montag: geschlossen</dd>"
+     },
+     {
+       "latlng": [
+         50.8865725,
+      11.5220166
+       ],
+       "popUpInnerHtml": "<h2><a target=\"_blank\" href=\"http://http://www.tautenburg.de/\">Burgruine Tautenburg</a></h2><dl><dt><b>Adresse</b></dt><dd>Im Vogelgrund 38, 07778 Tautenburg</dd><dt><b>Telefonnummer</b></dt><dd>036427-219800</dd></dl><dt><b>Öffnungszeiten</></dt><dd>durchgehend geöffnet</dd>"
+     },
+     {
+       "latlng": [
+         50.9608386,
+      11.645414
+       ],
+       "popUpInnerHtml": "<h2><a target=\"_blank\" href=\"http://www.kunitzburg.de\">Kunitzburg</a></h2><dl><dt><b>Adresse</b></dt><dd>Kunitzburgweg, 07751 Jena</dd><dt><b>Telefonnummer</b></dt><dd>0162 2841333</dd></dl><dt><b>Öffnungszeiten</></dt><dd>durchgehend geöffnet</dd>"
+     }
+   ],
+   "autoFit": true
+ }
