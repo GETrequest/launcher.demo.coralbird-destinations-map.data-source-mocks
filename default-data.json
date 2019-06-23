@@ -6,6 +6,35 @@
         10.93153
       ],
       "popUpInnerHtml": "<h2><a target=\"_blank\" href=\"https://coralbird.de/reiseziel-rennsteig/pension-gaststaette-haus-tannengrund\">Pension & Gaststätte \"Haus Tannengrund\"</a></h2>"
+    },
+    {
+      "latlng": [
+        50.584357,
+        10.931675
+      ],
+      "popUpInnerHtml": "<h2><a target=\"_blank\" href=\"https://coralbird.de/reiseziel-rennsteig/pension-sonne\">Pension \"Haus Sonne\"</a></h2>"
+    },
+    {
+      "latlng": [
+        50.593558,
+        10.858356
+      ],
+      "popUpInnerHtml": "<h2><a target=\"_blank\" href=\"https://coralbird.de/reiseziel-rennsteig/pension-sonne\">Hotel-Pension \"Rennsteighütte\"</a></h2>"
+    },
+    {
+      "latlng": [
+        50.562918,
+        10.966866
+      ],
+      "popUpInnerHtml": "<h2><a target=\"_blank\" href=\"https://coralbird.de/reiseziel-rennsteig/pension-sonne\">Pension Landhaus \"Altenfelder Rennsteigleiter\"</a></h2>"
+    },
+    {
+      "latlng": [
+        50.535281,
+        10.917138
+      ],
+      "popUpInnerHtml": "<h2><a target=\"_blank\" href=\"https://coralbird.de/reiseziel-rennsteig/pension-gaststaette-haus-tannengrund\">Gasthof & Fleischerei \"Schwarzer Adler\"</a></h2>"
+
     }
   ],
   "autoFit": true
