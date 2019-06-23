@@ -1,19 +1,63 @@
 {
-    "list": [
-      {
-        "latlng": [
-          52.3984941675,
-          13.0934027985
-        ],
-        "popUpInnerHtml": "<h2>AWO Kinder- und Jugendhilfe Potsdam gGmbH <a target=\"_blank\" href=\"http://www.awo-potsdam.de/awo-bezirksverband/awo-kinder-u-jugendhilfe-potsdam-ggmbh.html\">&#128279;</a></h2><dl><dt><b>Adresse</b></dt><dd>Grenzstr. 13 - 14,14482 Potsdam</dd><dt><b>Telefonnummer</b></dt><dd>0331.97 99 17 70</dd><dt><b>Email</b></dt><dd>info-kjh@awo-potsdam.de</dd></dl>"
-      },
-      {
-        "latlng": [
-          52.3675047524,
-          13.1346508696
-        ],
-        "popUpInnerHtml": "<h2>FRÖBEL Bildung und Erziehung gGmbH <a target=\"_blank\" href=\"https://www.froebel-gruppe.de/standorte/brandenburg\">&#128279;</a></h2><dl><dt><b>Adresse</b></dt><dd>Robert-Baberske-Str. 06. Aug,14480 Potsdam</dd><dt><b>Telefonnummer</b></dt><dd>0331.62 21 08</dd><dt><b>Email</b></dt><dd>nordwestbrandenburg@froebel-gruppe.de</dd></dl>"
-      }
-    ],
-    "autoFit": true
-  }
+  "list": [
+    {
+      "latlng": [
+        50.576563,
+        10.93153
+      ],
+      "popUpInnerHtml": "<h2>Pension & Gaststätte "Haus Tannengrund"<a target=\"_blank\" href=\"https://coralbird.de/reiseziel-rennsteig/pension-gaststaette-haus-tannengrund">&#128279;</a></h2>
+           <dl><dt><b>Adresse</b></dt><dd>Tannengrundstraße 50,
+      98701 Neustadt am Rennsteig</dd>
+           <dt><b>Telefonnummer</b></dt><dd>036781 28890</dd>
+           <dt><b>Preis pro Nacht ab</></dt><dd>22 € p.P.</dd></dl>"
+    },
+    {
+      "latlng": [
+        50.584357,
+        10.931675
+      ],
+      "popUpInnerHtml": "<h2>Pension "Haus Sonne"<a target=\"_blank\" href=\"https://coralbird.de/reiseziel-rennsteig/pension-sonne">&#128279;</a></h2>
+           <dl><dt><b>Adresse</b></dt><dd>Rennsteigstraße 60,
+      98701 Neustadt am Rennsteig</dd>
+           <dt><b>Telefonnummer</b></dt><dd>036781 28887</dd></dl>
+           <dt><b>Preis pro Nacht ab</></dt><dd>24 € p.P.</dd>"
+    }
+    {
+      "latlng": [
+        50.593558,
+        10.858356
+      ],
+      "popUpInnerHtml": "<h2>Hotel-Pension "Rennsteighütte"<a target=\"_blank\" href=\"https://coralbird.de/reiseziel-rennsteig/pension-sonne">&#128279;</a></h2>
+           <dl><dt><b>Adresse</b></dt><dd>Nordstraße 121,
+      98711 Frauenwald</dd>
+           <dt><b>Telefonnummer</b></dt><dd>036782 704646</dd></dl>
+           <dt><b>Preis pro Nacht ab</></dt><dd>32,
+      50 € p.P.</dd>"
+    }
+    {
+      "latlng": [
+        50.562918,
+        10.966866
+      ],
+      "popUpInnerHtml": "<h2>Pension Landhaus "Altenfelder Rennsteigleiter"<a target=\"_blank\" href=\"https://coralbird.de/reiseziel-rennsteig/pension-sonne">&#128279;</a></h2>
+           <dl><dt><b>Adresse</b></dt><dd>Bergstraße 64,
+      98701 Altenfeld</dd>
+           <dt><b>Telefonnummer</b></dt><dd>0174 912 7854</dd></dl>
+           <dt><b>Preis pro Nacht ab</></dt><dd>32,
+      00 € p.P.</dd>"
+    }
+    {
+      "latlng": [
+        50.535281,
+        10.917138
+      ],
+      "popUpInnerHtml": "<h2>Gasthof & Fleischerei "Schwarzer Adler"<a target=\"_blank\" href=\"https://coralbird.de/reiseziel-rennsteig/pension-gaststaette-haus-tannengrund"">&#128279;</a></h2>
+           <dl><dt><b>Adresse</b></dt><dd>Neubrunnstraße 23, OT Gießübel,
+      98667 Schleusegrund</dd>
+           <dt><b>Telefonnummer</b></dt><dd>036874 70269</dd></dl>
+           <dt><b>Preis pro Nacht ab</></dt><dd>35,
+      00 € p.P.</dd>"
+    }
+  ],
+  "autoFit": true
+}
